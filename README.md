@@ -25,6 +25,17 @@ I am a Computational Chemist with over 8 years of research experience in Cheminf
 - Mentored undergraduate students and high-school students in their research projects, which resulted in poster presentations at research symposiums
 
 
+
+### Projects
+#### ChemTools: Python tools for Analysis of Chemical compounds
+![Chemistry Tools](/assets/images/chem_tools.jpeg)
+
+#### Novel AI Driven Methods for Improved Metal Separations
+
+#### Critical Material Recovery with AI-Accelerated Ligand Synthesis and Separation
+
+
+
 ### Publications
 - Karunaratne E; Hill D W, Dührkopb K; Böckerb S; Grant D F, Combining experimental with computational infrared and mass spectra for high throughput non-targeted chemical structure identification, Anal Chem 95, 32, 11901–11907 (2023) 
 <a href="url">https://doi.org/10.1021/acs.analchem.3c00937</a>
@@ -36,12 +47,4 @@ I am a Computational Chemist with over 8 years of research experience in Cheminf
 
 - Mollahosseini M; Karunaratne E; Gibson G N; Gascón J A; Papadimitrakopoulos F, Fullerene-Assisted Photoinduced Charge Transfer of Single-Walled Carbon Nanotubes through a Flavin Helix. J. Am. Chem. Soc 138, 5904-5915 (2016)
 <a href="url">https://doi.org/10.1021/jacs.5b13496</a>
-
-
-### Projects
-#### Novel AI Driven Methods for Improved Metal Separations
-
-#### Critical Material Recovery with AI-Accelerated Ligand Synthesis and Separation
-
-![Chemistry Tools](/assets/images/chem_tools.jpeg)
 

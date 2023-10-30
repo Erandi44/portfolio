@@ -15,5 +15,17 @@ I am a Computational Chemist with over 8 years of research experience in Cheminf
 - Collaborated with a team of multidisciplinary researchers to build a computational model via molecular simulations and cheminformatics techniques to facilitate the identification of unknown metabolites in biofluids using Mass and IR spectral data which resulted in the correct identification of 59%
 
 
+#### Research Assistant | University of Connecticut, Storrs, CT (2012 - 2018)
+- Collaborated with multidisciplinary researchers to design flavin-C60 (FC60) molecule. Calculated its conformational and electronic space and demonstrated the charge transfer characteristics of FC60 self-assembly around single-walled carbon nanotubes (SWNTs), which has profound importance in nanostructured optoelectronic devices
+- Deciphered the preferential C60 localization around flavin-wrapped nanotubes via molecular dynamics and DFT calculations, demonstrating site-specific molecular recognition of flavin helices
+- Characterized the XRD pattern of SWNT nucleated FMN (flavin mononucleotide) crystals and simulated its crystal packing. Interpreted the underlying notion of selective flavin assemblies on specific chiral nanotubes 
+- Validated the stability and organizational pattern of different flavin derivatives around SWNTs through spectroscopic techniques and computational modeling 
+- Developed new methodology to control porosity in monolayer surfactant coatings around carbon nanotubes 
+- Mentored undergraduate students and high-school students in their research projects, which resulted in poster presentations at research symposiums
+
+
+### Publications
+
+
 ### Projects
 

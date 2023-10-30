@@ -28,7 +28,7 @@ I am a Computational Chemist with over 8 years of research experience in Cheminf
 
 ### Projects
 #### ChemTools: Python tools for Analysis of Chemical compounds
-![Chemistry Tools](/assets/images/chem_tools.jpeg)
+![Chemistry Tools](/assets/images/chem_tools.jpg)
 
 #### Novel AI Driven Methods for Improved Metal Separations
 

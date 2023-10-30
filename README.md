@@ -1,11 +1,11 @@
-# Who Am I ?
+## Who Am I ?
 I am a Computational Chemist with over 8 years of research experience in Cheminformatics, Machine Learning, DFT, and Molecular Dynamics, backed by a Ph.D. in Chemistry. My analytical mindset leads me to explore various perspectives, igniting my curiosity and creativity when it comes to problem-solving. Beyond work, I am an avid traveler, and a photpgrapher embracing the joy and adventure that come with exploring new horizons.
 
 
 
 ### Education
 - Ph.D., Chemistry | University of Connecticut, Storrs, CT (2019)
-- BSc., Chemistry | University of Peradeniys, Sri Lanka (2010)
+- BSc., Chemistry | University of Peradeniya, Sri Lanka (2010)
 
 ### Work Experience
 #### Postdoctoral Research Associate | Ames National Laboratory, Ames, IA (2022 - present)

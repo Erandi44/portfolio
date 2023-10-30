@@ -46,3 +46,5 @@ I am a Computational Chemist with over 8 years of research experience in Cheminf
 
 #### Critical Material Recovery with AI-Accelerated Ligand Synthesis and Separation
 
+![Chemistry Tools](/assets/images/comp_chem.jpeg)
+

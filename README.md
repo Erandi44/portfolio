@@ -27,9 +27,17 @@ I am a Computational Chemist with over 8 years of research experience in Cheminf
 
 
 ### Projects
+
+<div data-sm="2column">
+
+<div> ![Chemistry Tools](/assets/images/chem_tools.jpg)    </div>
+  
+<div>  
 #### ChemTools: Python tools for Analysis of Chemical compounds
-![Chemistry Tools](/assets/images/chem_tools.jpg)
 Chemtools is a set of python scripts intended to help with calculations related to chemical structures such as descriptor calculation, sub structure searching, functional group modifications etc. using Rdkit, numpy and pandas libraries. <a href="url">https://github.com/Erandi44/Chemistry_Tools</a>
+</div>
+</div>
+
 
 
 #### Novel AI Driven Methods for Improved Metal Separations

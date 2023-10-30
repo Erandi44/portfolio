@@ -1,4 +1,4 @@
-#<img src="/images/comp_chem.jpeg" style="width:1000px;height:300px;">
+
 (/images/comp_chem.jpeg)
 
 # Who Am I ?

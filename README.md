@@ -1,5 +1,5 @@
 # Computational Chemist
-I am a Computational Chemist with over 8 years of research experience in Cheminformatics, Machine Learning, DFT, and Molecular Dynamics, backed by a Ph.D. in Chemistry. My analytical mindset leads me to explore various perspectives, igniting my curiosity and creativity when it comes to problem-solving. Beyond work, I am an avid traveler, embracing the joy and adventure that come with exploring new horizons.
+I am a Computational Chemist with over 8 years of research experience in Cheminformatics, Machine Learning, DFT, and Molecular Dynamics, backed by a Ph.D. in Chemistry. My analytical mindset leads me to explore various perspectives, igniting my curiosity and creativity when it comes to problem-solving. Beyond work, I am an avid traveler, and a photpgrapher embracing the joy and adventure that come with exploring new horizons.
 
 
 ### Education

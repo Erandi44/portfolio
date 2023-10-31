@@ -28,21 +28,19 @@ I am a Computational Chemist with over 8 years of research experience in Cheminf
 
 ### Projects
 
-<div data-sm="2column">
-
-<div> <img src="/assets/images/chem_tools.jpg"> </div>
-  
-<div>  
-
-</div>
-</div>
 ![Chemistry Tools](/assets/images/chem_tools.jpg)
 #### ChemTools: Python tools for Analysis of Chemical compounds
 Chemtools is a set of python scripts intended to help with calculations related to chemical structures such as descriptor calculation, sub structure searching, functional group modifications etc. using Rdkit, numpy and pandas libraries. <a href="url">https://github.com/Erandi44/Chemistry_Tools</a>
 
 #### Novel AI Driven Methods for Improved Metal Separations
+The determination of metal-ligand stability constants, represented as log K values, is a critical aspect in various fields such as drug design, chelation therapy, catalysis, MRI imaging, and solvent extraction of metal ions. Although ab-initio calculations are typically used in predicting these values, the associated computational cost and reduced accuracy render them impractical. As a result, data-driven approaches such as machine-learning (ML) have been used and show great promise for estimating metal-ligand log K values. To address this the directed message passing neural network (D-MPNN) machine learning in Chemprop software was employed in predicting logK1 binding affinities for all metal ions in the periodic table with different types of molecular ligands. The ML models were trained on data extracted from the IUPAC Stability Constants Database (SC-database), which contains metal-complex stability constants and related information published in scientific literature. Data preparation and cleaning was done with the use of different python libraries such as numpy, pandas and RDKit. <a href="url">https://github.com/Critical-Materials-Institute/LOGKPREDICT</a>
 
-#### Critical Material Recovery with AI-Accelerated Ligand Synthesis and Separation
+### Chemical Structutre identification by Experimental and Computational IR and Mass Spectra
+The inability to identify the structures of most metabolites detected in environmental or biological samples limits the utility of nontargeted metabolomics. The most widely used analytical approaches combine mass spectrometry and machine learning methods to rank candidate structures contained in large chemical databases. Given the large chemical space typically searched, the use of additional orthogonal data may improve the identification rates and reliability.Here, we present results of combining experimental and computational mass and IR spectral data for high-throughput nontargeted chemical structure identification. Experimental MS/MS and gas-phase IR data for 148 test compounds were obtained from NIST. Candidate structures for each of the test compounds were obtained from PubChem (mean = 4444 candidate structures per test compound). Our workflow used CSI:FingerID to initially score and rank the  candidate structures. The top 1000 ranked candidates were subsequently used for IR spectra prediction, scoring, and ranking using density functional theory (DFT-IR). Final ranking of the candidates was based on a composite score calculated as the average of the CSI:FingerID and DFT-IR rankings. This approach resulted in the correct identification of 88 of the 148 test compounds (59%). 129 of the 148 test compounds (87%) were ranked within the top 20 candidates. These identification rates are the highest yet reported when candidate structures are used from PubChem. Combining experimental and computational MS/MS and IR spectral data is a potentially powerful option for prioritizing candidates for final structure verification.
+publication: <a href="url">https://doi.org/10.1021/acs.analchem.3c00937</a>
+publication: <a href="url">https://doi.org/10.1021/acs.analchem.1c02244</a>
+
+
 
 
 

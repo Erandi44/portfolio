@@ -52,12 +52,12 @@ This analyze COVID data from Jan, 2020 to May, 2022. Data Type conversions, filt
 
 
 ### Publications
-- Karunaratne E; Hill D W, Dührkopb K; Böckerb S; Grant D F, Combining experimental with computational infrared and mass spectra for high throughput non-targeted chemical structure identification, Anal Chem 95, 32, 11901–11907 (2023) 
+- Combining experimental with computational infrared and mass spectra for high throughput non-targeted chemical structure identification, Anal Chem 95, 32, 11901–11907 (2023) 
 <a href="url">https://doi.org/10.1021/acs.analchem.3c00937</a>
 
-- Karunaratne E; Hill D W, Pracht P; Gascón J A; Grimme S; Grant D F, High-Throughput Non-targeted Chemical Structure Identification Using Gas-Phase Infrared Spectroscopy. Anal Chem 93, 10688-10696 (2021) 
+- High-Throughput Non-targeted Chemical Structure Identification Using Gas-Phase Infrared Spectroscopy. Anal Chem 93, 10688-10696 (2021) 
 <a href="url">https://doi.org/10.1021/acs.analchem.1c02244</a>
 
-- Mollahosseini M; Karunaratne E; Gibson G N; Gascón J A; Papadimitrakopoulos F, Fullerene-Assisted Photoinduced Charge Transfer of Single-Walled Carbon Nanotubes through a Flavin Helix. J. Am. Chem. Soc 138, 5904-5915 (2016)
+- Fullerene-Assisted Photoinduced Charge Transfer of Single-Walled Carbon Nanotubes through a Flavin Helix. J. Am. Chem. Soc 138, 5904-5915 (2016)
 <a href="url">https://doi.org/10.1021/jacs.5b13496</a>
 
